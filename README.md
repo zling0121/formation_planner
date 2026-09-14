@@ -102,11 +102,7 @@ Choreographers face four intertwined challenges:
 | **State** | React Context / Zustand | Simple, predictable state |
 | **Geometry** | Pure TypeScript | No dependencies for safety calculations |
 
----
 
-## Live Demo
-
-- **Demo Video:** [https://youtu.be/your-video-id](https://youtu.be/your-video-id)
 - **GitHub:** [https://github.com/zling0121/formation_planner](https://github.com/zling0121/formation_planner)
 
 ---
